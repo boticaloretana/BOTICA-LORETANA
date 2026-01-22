@@ -1,0 +1,7 @@
+{
+  "name": "PLANILLA-REMUNERACIONES",
+  "description": "Una aplicación integral para la gestión de PLANILLA DE REMUNERACIONES, adelantos, créditos y descuentos de ley para pequeñas empresas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
